@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Tiger1pl
-- 👀 I’m interested in tanks
-- 🌱 I’m currently learning tanks
-- 💞️ I’m looking to collaborate on tanks
-- 📫 tanks
+local tiger1pl = game.workspace.tiger1pl
+tiger1pl:destroy()
